@@ -1,2 +1,0 @@
-# tshow
-Tshow software app
